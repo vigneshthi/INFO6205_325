@@ -1,0 +1,711 @@
+Items -  values & Weights.....
+3  2  9  6  3  1  2  2  7  8  
+3  4  1  6  8  9  6  4  4  0  
+generation  Zero!
+GeneSeq    Value  Weight
+1111111111   43.0  45.0
+0001011100   11.0  25.0
+1010000101   22.0  8.0
+0101011110   20.0  33.0
+1010101101   27.0  22.0
+1110010101   25.0  21.0
+1011011001   29.0  25.0
+0001101110   20.0  28.0
+0111110011   36.0  32.0
+1100010100   8.0  20.0
+1101111001   25.0  36.0
+0000101110   14.0  22.0
+1110001000   16.0  14.0
+0000001010   9.0  10.0
+1100001111   24.0  21.0
+1111001010   29.0  24.0
+1010001111   31.0  18.0
+1101000110   20.0  21.0
+1010011101   25.0  23.0
+1011110001   30.0  27.0
+0101101111   30.0  32.0
+0100110110   15.0  29.0
+0100000011   17.0  8.0
+1001100011   27.0  21.0
+0010101100   16.0  19.0
+1011100100   23.0  22.0
+0000110010   11.0  21.0
+0011101111   37.0  29.0
+1101001100   15.0  23.0
+0110100111   31.0  21.0
+1101010010   19.0  26.0
+1011011101   31.0  29.0
+1100010110   15.0  24.0
+1010011010   22.0  23.0
+0001010000   7.0  15.0
+1010100011   30.0  16.0
+0100011101   15.0  23.0
+1000011000   6.0  18.0
+0010010010   17.0  14.0
+0101011110   20.0  33.0
+1101010111   29.0  30.0
+0101010100   11.0  23.0
+1100001011   22.0  17.0
+1000110101   17.0  24.0
+0001100100   11.0  18.0
+1010110000   16.0  21.0
+0111111010   30.0  38.0
+0001010111   24.0  23.0
+1101000100   13.0  17.0
+0110111010   24.0  32.0
+0110011011   29.0  24.0
+0011100000   18.0  15.0
+1110011110   26.0  31.0
+1101110100   17.0  34.0
+0011000110   24.0  15.0
+1110010010   22.0  21.0
+1000000010   10.0  7.0
+0000100101   13.0  12.0
+1100001001   15.0  13.0
+0111011110   29.0  34.0
+1000100011   21.0  15.0
+1100111101   21.0  34.0
+1001001000   11.0  15.0
+0010000011   24.0  5.0
+0011111110   30.0  38.0
+1111011001   31.0  29.0
+1110011100   19.0  27.0
+0111010101   28.0  24.0
+0010000011   24.0  5.0
+0111111101   33.0  38.0
+0010001100   13.0  11.0
+1101001100   15.0  23.0
+1010011001   23.0  19.0
+0000101011   20.0  18.0
+1001110101   23.0  30.0
+1100110110   18.0  32.0
+0110101010   23.0  23.0
+0101100101   21.0  22.0
+0111100100   22.0  23.0
+0010101110   23.0  23.0
+1100001101   17.0  17.0
+1011011001   29.0  25.0
+0100100110   14.0  20.0
+0100011001   13.0  19.0
+0110111010   24.0  32.0
+1111001000   22.0  20.0
+0110010011   27.0  18.0
+0000110000   4.0  17.0
+0001110111   27.0  31.0
+0000010011   16.0  13.0
+0101000101   18.0  14.0
+0111101101   32.0  29.0
+0001010100   9.0  19.0
+1101000111   28.0  21.0
+1111111100   28.0  41.0
+1000011000   6.0  18.0
+0110110100   17.0  26.0
+0110001100   15.0  15.0
+0000110101   14.0  21.0
+0111110011   36.0  32.0
+
+Generation.....in making
+Generation1
+Gen:1Gen Seq[1, 0, 1, 0, 0, 0, 1, 1, 1, 1] BestFitness: 31.0 Avg: 18.262857142857143
+Generation2
+Gen:2Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 23.566666666666666
+Generation3
+Gen:3Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 25.818823529411766
+Generation4
+Gen:4Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 27.67818181818182
+Generation5
+Gen:5Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 28.695555555555554
+Generation6
+Gen:6Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 33.994241842610364
+Generation7
+Gen:7Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 33.99610894941634
+Generation8
+Gen:8Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 33.995061728395065
+Generation9
+Gen:9Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 33.97289156626506
+Generation10
+Gen:10Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 33.97938144329897
+Generation11
+Gen:11Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 33.97596153846154
+Generation12
+Gen:12Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 33.950092421441774
+Generation13
+Gen:13Gen Seq[1, 1, 1, 0, 1, 0, 0, 1, 1, 1] BestFitness: 34.0 Avg: 34.0
+Generation14
+Gen:14Gen Seq[1, 1, 1, 0, 1, 1, 0, 1, 1, 1] BestFitness: 34.0 Avg: 31.913528591352858
+Generation15
+Gen:15Gen Seq[1, 1, 1, 0, 1, 1, 0, 1, 1, 0] BestFitness: 34.0 Avg: 30.37849017580145
+Generation16
+Gen:16Gen Seq[1, 1, 1, 0, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 28.884141331142153
+Generation17
+Gen:17Gen Seq[1, 1, 1, 0, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 26.929788684389912
+Generation18
+Gen:18Gen Seq[1, 1, 1, 0, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 28.316176470588236
+Generation19
+Gen:19Gen Seq[1, 1, 1, 0, 1, 1, 0, 1, 1, 0] BestFitness: 34.0 Avg: 24.838790931989923
+Generation20
+Gen:20Gen Seq[1, 1, 1, 0, 1, 1, 0, 1, 1, 0] BestFitness: 34.0 Avg: 23.281173594132028
+Generation21
+Gen:21Gen Seq[1, 1, 1, 0, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 21.253012048192772
+Generation22
+Gen:22Gen Seq[1, 1, 1, 0, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 19.949526813880126
+Generation23
+Gen:23Gen Seq[1, 1, 1, 1, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 18.84656084656085
+Generation24
+Gen:24Gen Seq[1, 1, 1, 1, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 18.97062423500612
+Generation25
+Gen:25Gen Seq[1, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 24.946859903381643
+Generation26
+Gen:26Gen Seq[1, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 22.41566265060241
+Generation27
+Gen:27Gen Seq[1, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 21.12035010940919
+Generation28
+Gen:28Gen Seq[1, 1, 1, 0, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 24.89145496535797
+Generation29
+Gen:29Gen Seq[1, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 22.251830161054173
+Generation30
+Gen:30Gen Seq[1, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 20.95391211146838
+Generation31
+Gen:31Gen Seq[1, 1, 1, 1, 0, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 19.859678782755704
+Generation32
+Gen:32Gen Seq[1, 1, 1, 1, 0, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 24.983572895277206
+Generation33
+Gen:33Gen Seq[1, 1, 1, 1, 0, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 22.815468113975577
+Generation34
+Gen:34Gen Seq[1, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 21.308004052684904
+Generation35
+Gen:35Gen Seq[1, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 24.741071428571427
+Generation36
+Gen:36Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 22.2
+Generation37
+Gen:37Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 21.636363636363637
+Generation38
+Gen:38Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 34.0 Avg: 20.573248407643312
+Generation39
+Gen:39Gen Seq[0, 1, 1, 1, 1, 1, 1, 1, 1, 0] BestFitness: 34.0 Avg: 18.68794326241135
+Generation40
+Gen:40Gen Seq[0, 1, 1, 1, 1, 1, 1, 1, 1, 1] BestFitness: 34.0 Avg: 17.45945945945946
+Generation41
+Gen:41Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 34.0 Avg: 24.45036319612591
+Generation42
+Gen:42Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 34.0 Avg: 20.114114114114113
+Generation43
+Gen:43Gen Seq[0, 1, 1, 1, 0, 1, 0, 1, 1, 1] BestFitness: 34.0 Avg: 18.72041166380789
+Generation44
+Gen:44Gen Seq[1, 1, 1, 1, 0, 1, 0, 1, 1, 1] BestFitness: 34.0 Avg: 18.163265306122447
+Generation45
+Gen:45Gen Seq[0, 1, 1, 1, 0, 1, 0, 1, 1, 1] BestFitness: 34.0 Avg: 23.563549160671464
+Generation46
+Gen:46Gen Seq[0, 1, 1, 1, 0, 1, 0, 1, 1, 0] BestFitness: 34.0 Avg: 21.256371814092955
+Generation47
+Gen:47Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 32.95522388059702
+Generation48
+Gen:48Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 32.95522388059702
+Generation49
+Gen:49Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.059859154929576
+Generation50
+Gen:50Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.059859154929576
+Generation51
+Gen:51Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.059859154929576
+Generation52
+Gen:52Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.059859154929576
+Generation53
+Gen:53Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.059859154929576
+Generation54
+Gen:54Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.059859154929576
+Generation55
+Gen:55Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 36.0
+Generation56
+Gen:56Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.059859154929576
+Generation57
+Gen:57Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.33863080684596
+Generation58
+Gen:58Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.41760299625468
+Generation59
+Gen:59Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.96551724137931
+Generation60
+Gen:60Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 36.0
+Generation61
+Gen:61Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.98650927487353
+Generation62
+Gen:62Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 36.0
+Generation63
+Gen:63Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.988691437802906
+Generation64
+Gen:64Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.99197860962567
+Generation65
+Gen:65Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.655448717948715
+Generation66
+Gen:66Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 36.0
+Generation67
+Gen:67Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.987730061349694
+Generation68
+Gen:68Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 36.0
+Generation69
+Gen:69Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.92402826855124
+Generation70
+Gen:70Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.939950980392155
+Generation71
+Gen:71Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.98067632850242
+Generation72
+Gen:72Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.525525525525524
+Generation73
+Gen:73Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.88643533123028
+Generation74
+Gen:74Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.92239858906525
+Generation75
+Gen:75Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 34.02197802197802
+Generation76
+Gen:76Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.98761609907121
+Generation77
+Gen:77Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.99047619047619
+Generation78
+Gen:78Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.996815286624205
+Generation79
+Gen:79Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.9822695035461
+Generation80
+Gen:80Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 34.56749311294766
+Generation81
+Gen:81Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.94427244582043
+Generation82
+Gen:82Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 36.0
+Generation83
+Gen:83Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.994690265486724
+Generation84
+Gen:84Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.9521472392638
+Generation85
+Gen:85Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 36.0
+Generation86
+Gen:86Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.67567567567568
+Generation87
+Gen:87Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.81132075471698
+Generation88
+Gen:88Gen Seq[1, 1, 1, 1, 0, 1, 0, 0, 1, 1] BestFitness: 36.0 Avg: 35.824729891956785
+Generation89
+Gen:89Gen Seq[1, 1, 1, 1, 0, 1, 0, 1, 1, 1] BestFitness: 36.0 Avg: 35.865189289012
+Generation90
+Gen:90Gen Seq[1, 1, 1, 1, 0, 1, 0, 1, 1, 1] BestFitness: 36.0 Avg: 32.94673668417104
+Generation91
+Gen:91Gen Seq[1, 1, 1, 1, 0, 1, 0, 1, 1, 1] BestFitness: 36.0 Avg: 27.497098646034818
+Generation92
+Gen:92Gen Seq[1, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 36.0 Avg: 23.791395045632335
+Generation93
+Gen:93Gen Seq[1, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 36.0 Avg: 22.686332350049163
+Generation94
+Gen:94Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 36.0 Avg: 21.67640094711918
+Generation95
+Gen:95Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 0, 1] BestFitness: 36.0 Avg: 27.571428571428573
+Generation96
+Gen:96Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 0, 1] BestFitness: 30.0 Avg: 20.371352785145888
+Generation97
+Gen:97Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 0, 1] BestFitness: 30.0 Avg: 22.739043824701195
+Generation98
+Gen:98Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 32.15742793791574
+Generation99
+Gen:99Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97360703812317
+Generation100
+Gen:100Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99373040752351
+Generation101
+Gen:101Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.33040421792619
+Generation102
+Gen:102Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.89835164835165
+Generation103
+Gen:103Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.9938080495356
+Generation104
+Gen:104Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.94285714285714
+Generation105
+Gen:105Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97770700636943
+Generation106
+Gen:106Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.973404255319146
+Generation107
+Gen:107Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98347107438016
+Generation108
+Gen:108Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99021207177814
+Generation109
+Gen:109Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.11528150134048
+Generation110
+Gen:110Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.535384615384615
+Generation111
+Gen:111Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation112
+Gen:112Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.29299363057325
+Generation113
+Gen:113Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.540780141843975
+Generation114
+Gen:114Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.4017199017199
+Generation115
+Gen:115Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.73123486682809
+Generation116
+Gen:116Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.55052790346908
+Generation117
+Gen:117Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.592689295039165
+Generation118
+Gen:118Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.99052132701422
+Generation119
+Gen:119Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.26613816534541
+Generation120
+Gen:120Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.42630185348632
+Generation121
+Gen:121Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.708595387840674
+Generation122
+Gen:122Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.96531791907515
+Generation123
+Gen:123Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.95625
+Generation124
+Gen:124Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.96842105263158
+Generation125
+Gen:125Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.9780487804878
+Generation126
+Gen:126Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.64392523364486
+Generation127
+Gen:127Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 1] BestFitness: 37.0 Avg: 36.711363636363636
+Generation128
+Gen:128Gen Seq[0, 0, 1, 1, 1, 0, 1, 1, 1, 1] BestFitness: 37.0 Avg: 33.929299363057325
+Generation129
+Gen:129Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.741592920353984
+Generation130
+Gen:130Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation131
+Gen:131Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.57817589576547
+Generation132
+Gen:132Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.692129629629626
+Generation133
+Gen:133Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation134
+Gen:134Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99702823179792
+Generation135
+Gen:135Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97922077922078
+Generation136
+Gen:136Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98170731707317
+Generation137
+Gen:137Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.88291139240506
+Generation138
+Gen:138Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.92226148409894
+Generation139
+Gen:139Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.900735294117645
+Generation140
+Gen:140Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97826086956522
+Generation141
+Gen:141Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 34.43825301204819
+Generation142
+Gen:142Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97911227154047
+Generation143
+Gen:143Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98736176935229
+Generation144
+Gen:144Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.695356738391844
+Generation145
+Gen:145Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.697263901147394
+Generation146
+Gen:146Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation147
+Gen:147Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 33.31791907514451
+Generation148
+Gen:148Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 34.7248322147651
+Generation149
+Gen:149Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99189189189189
+Generation150
+Gen:150Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation151
+Gen:151Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.971518987341774
+Generation152
+Gen:152Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.955414012738856
+Generation153
+Gen:153Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.95390070921986
+Generation154
+Gen:154Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.980716253443525
+Generation155
+Gen:155Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.92822185970636
+Generation156
+Gen:156Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.975871313672926
+Generation157
+Gen:157Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99384615384616
+Generation158
+Gen:158Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.702608695652174
+Generation159
+Gen:159Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.04848484848485
+Generation160
+Gen:160Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.19230769230769
+Generation161
+Gen:161Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.2042042042042
+Generation162
+Gen:162Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.403930131004365
+Generation163
+Gen:163Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 33.40552995391705
+Generation164
+Gen:164Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99109792284867
+Generation165
+Gen:165Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.64565587734242
+Generation166
+Gen:166Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.04181600955795
+Generation167
+Gen:167Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation168
+Gen:168Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.60329341317365
+Generation169
+Gen:169Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.630718954248366
+Generation170
+Gen:170Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.70376712328767
+Generation171
+Gen:171Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.75105782792666
+Generation172
+Gen:172Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98689138576779
+Generation173
+Gen:173Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.983193277310924
+Generation174
+Gen:174Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.9835255354201
+Generation175
+Gen:175Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.27654609101517
+Generation176
+Gen:176Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation177
+Gen:177Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.941964285714285
+Generation178
+Gen:178Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.877440347071584
+Generation179
+Gen:179Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.9018771331058
+Generation180
+Gen:180Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.05979381443299
+Generation181
+Gen:181Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.93103448275862
+Generation182
+Gen:182Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.975
+Generation183
+Gen:183Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99047619047619
+Generation184
+Gen:184Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.961783439490446
+Generation185
+Gen:185Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99041533546326
+Generation186
+Gen:186Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.980830670926515
+Generation187
+Gen:187Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99361022364217
+Generation188
+Gen:188Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97513321492007
+Generation189
+Gen:189Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.46125461254613
+Generation190
+Gen:190Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.08474576271186
+Generation191
+Gen:191Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.42684766214178
+Generation192
+Gen:192Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.90339425587467
+Generation193
+Gen:193Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.93680884676145
+Generation194
+Gen:194Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.951302378255946
+Generation195
+Gen:195Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.6522506619594
+Generation196
+Gen:196Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.672955974842765
+Generation197
+Gen:197Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.89306358381503
+Generation198
+Gen:198Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.783557046979865
+Generation199
+Gen:199Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.849881796690305
+Generation200
+Gen:200Gen Seq[1, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.112226277372265
+Generation201
+Gen:201Gen Seq[1, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 29.206382978723404
+Generation202
+Gen:202Gen Seq[1, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 30.23768115942029
+Generation203
+Gen:203Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 27.66218487394958
+Generation204
+Gen:204Gen Seq[1, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 29.2
+Generation205
+Gen:205Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 26.85483870967742
+Generation206
+Gen:206Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.069333333333333
+Generation207
+Gen:207Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 30.2256
+Generation208
+Gen:208Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 34.38563829787234
+Generation209
+Gen:209Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.215654952076676
+Generation210
+Gen:210Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.71689497716895
+Generation211
+Gen:211Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.96891651865009
+Generation212
+Gen:212Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation213
+Gen:213Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.69146005509642
+Generation214
+Gen:214Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 34.704918032786885
+Generation215
+Gen:215Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.139013452914796
+Generation216
+Gen:216Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.57058823529412
+Generation217
+Gen:217Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.17627118644068
+Generation218
+Gen:218Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.19512195121951
+Generation219
+Gen:219Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 34.55896607431341
+Generation220
+Gen:220Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.024064171122994
+Generation221
+Gen:221Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.27403846153846
+Generation222
+Gen:222Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.90133333333333
+Generation223
+Gen:223Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation224
+Gen:224Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.74050632911393
+Generation225
+Gen:225Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97452229299363
+Generation226
+Gen:226Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation227
+Gen:227Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99361022364217
+Generation228
+Gen:228Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.980830670926515
+Generation229
+Gen:229Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.95527156549521
+Generation230
+Gen:230Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.88178913738019
+Generation231
+Gen:231Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.93428063943162
+Generation232
+Gen:232Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.95079950799508
+Generation233
+Gen:233Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98062953995157
+Generation234
+Gen:234Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation235
+Gen:235Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.981072555205046
+Generation236
+Gen:236Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98089171974522
+Generation237
+Gen:237Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.99361022364217
+Generation238
+Gen:238Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.6607460035524
+Generation239
+Gen:239Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98347107438016
+Generation240
+Gen:240Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.92985318107667
+Generation241
+Gen:241Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.90080428954423
+Generation242
+Gen:242Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.94060995184591
+Generation243
+Gen:243Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.641466208476515
+Generation244
+Gen:244Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.61882352941176
+Generation245
+Gen:245Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.76
+Generation246
+Gen:246Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.736216216216214
+Generation247
+Gen:247Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 37.0 Avg: 31.378440366972477
+Generation248
+Gen:248Gen Seq[0, 0, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 37.0 Avg: 27.817784256559765
+Generation249
+Gen:249Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 24.05128205128205
+Generation250
+Gen:250Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 26.775716694772346
+Generation251
+Gen:251Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.529944289693592
+Generation252
+Gen:252Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 37.0 Avg: 29.7858837485172
+Generation253
+Gen:253Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.462293388429753
+Generation254
+Gen:254Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.436870997255262
+Generation255
+Gen:255Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 29.314449917898195
+Generation256
+Gen:256Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.949864498644985
+Generation257
+Gen:257Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.95344129554656
+Generation258
+Gen:258Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.236607142857146
+Generation259
+Gen:259Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.917647058823526
+Generation260
+Gen:260Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.61755485893417
+Generation261
+Gen:261Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 37.0
+Generation262
+Gen:262Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.898936170212764
+Generation263
+Gen:263Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98347107438016
+Generation264
+Gen:264Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.37770897832817
+Generation265
+Gen:265Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.97142857142857
+Generation266
+Gen:266Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.86624203821656
+Generation267
+Gen:267Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.920212765957444
+Generation268
+Gen:268Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.8992628992629
+Generation269
+Gen:269Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.98062953995157
+Generation270
+Gen:270Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.888888888888886
+Generation271
+Gen:271Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 1] BestFitness: 37.0 Avg: 36.93653516295026
+Generation272
+Gen:272Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 1] BestFitness: 37.0 Avg: 31.578631452581032
+Generation273
+Gen:273Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.38369304556355
+Generation274
+Gen:274Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 1] BestFitness: 37.0 Avg: 23.595808383233532
+Generation275
+Gen:275Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 1] BestFitness: 37.0 Avg: 22.039383561643834
+Generation276
+Gen:276Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 37.0 Avg: 25.708446866485012
+Generation277
+Gen:277Gen Seq[0, 1, 1, 1, 1, 0, 1, 1, 1, 0] BestFitness: 37.0 Avg: 26.96604938271605
+Generation278
+Gen:278Gen Seq[0, 1, 1, 1, 1, 0, 1, 0, 1, 0] BestFitness: 37.0 Avg: 24.797909407665504
+Generation279
+Gen:279Gen Seq[0, 1, 1, 1, 1, 0, 1, 0, 1, 0] BestFitness: 37.0 Avg: 28.54794520547945
+Generation280
+Gen:280Gen Seq[0, 1, 1, 1, 1, 0, 1, 0, 1, 1] BestFitness: 37.0 Avg: 26.854938271604937
+Generation281
+Gen:281Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 26.52698412698413
+Generation282
+Gen:282Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 31.796178343949045
+Generation283
+Gen:283Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 33.709219858156025
+Generation284
+Gen:284Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 33.94214876033058
+Generation285
+Gen:285Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.040247678018574
+Generation286
+Gen:286Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.41269841269841
+Generation287
+Gen:287Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 35.15575221238938
+Generation288
+Gen:288Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.925824175824175
+Generation289
+Gen:289Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.574918566775246
+Generation290
+Gen:290Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.688657407407405
+Generation291
+Gen:291Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.75044883303411
+Generation292
+Gen:292Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.793988269794724
+Generation293
+Gen:293Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 37.0 Avg: 36.825898389095414
+Generation294
+Gen:294Gen Seq[0, 1, 1, 1, 1, 1, 0, 1, 1, 1] BestFitness: 37.0 Avg: 30.413612565445025
+Generation295
+Gen:295Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.063013698630137
+Generation296
+Gen:296Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 25.92283950617284
+Generation297
+Gen:297Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 28.895238095238096
+Generation298
+Gen:298Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 30.74203821656051
+Generation299
+Gen:299Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 31.52127659574468
+Generation300
+Gen:300Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 33.15847665847666
+Generation301
+Gen:301Gen Seq[0, 1, 1, 1, 1, 0, 0, 1, 1, 1] BestFitness: 37.0 Avg: 34.06109022556391
+Stop condition meet at generation: 301
+Total Value Possible - 37.0 With inclusion of items -:0111100111
