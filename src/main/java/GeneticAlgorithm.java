@@ -75,12 +75,13 @@ public class GeneticAlgorithm implements Comparable {
     }
 
 
-
     @Override
     public int compareTo(Object comparestu) {
         double compareFitness=((GeneticAlgorithm)comparestu).getFitness();
-        /* For sorting in descending order do like this */
+        /* For sorting in ascending order do like this */
         //return (int)(this.Fitness-compareFitness);
+
+        /* For sorting in descending order do like this */
         return (int)(compareFitness-this.Fitness);
     }
 }

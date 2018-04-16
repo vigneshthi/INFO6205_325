@@ -9,7 +9,7 @@
 
             final static Logger logger = Logger.getLogger(Knapsack.class);
 
-            public static int generation = 100;
+            public static int generation = 200;
             public static final int totalItems = 5;
             public static final int capacity = 13;
             public static final int populationCount = 100;
@@ -17,7 +17,7 @@
 
             public static int currentGeneration = 0;
             public static double crossoverValue = 0.6;
-            public static double cullingValue = 0.9;
+            public static double cullingValue = 0.1;
             public static double mutationValue = 0.02;
 
             public static Item[] itemsList = new Item[totalItems];
@@ -26,6 +26,7 @@
             public static ArrayList<GeneticAlgorithm> newGeneration = new ArrayList<GeneticAlgorithm>();
             public static ArrayList<GeneticAlgorithm> breedPopulation = new ArrayList<GeneticAlgorithm>();
             public static Population currentPopulation;
+
 
             public static int populationFitness() {
                 int popFitness = 0;
@@ -51,6 +52,18 @@
                 }
                 return newGeneration.get(index);
             }
+
+
+            private double getMeanFitness() {
+                double total_fitness = 0;
+                double mean_fitness = 0;
+                for(int i = 0; i < newGeneration.size(); i++) {
+                    total_fitness = total_fitness + newGeneration.get(i).getFitness();
+                }
+                mean_fitness = total_fitness / newGeneration.size();
+                return mean_fitness;
+            }
+
 
             private static double newPopulation() {
                 double mean = 0;
@@ -138,7 +151,7 @@
                 {
                     breedPopulation = new ArrayList<>();
 
-                    if((i > (generation * 0.6) && (generation >= 3))) {
+                    if((i > (generation*0.5) && (generation >= 3))) {
                         double a = totalPopulation.get(i-1).getGa().getFitness();
                         double b = totalPopulation.get(i-2).getGa().getFitness();
                         double c = totalPopulation.get(i-3).getGa().getFitness();
@@ -152,9 +165,7 @@
                             break;
                         }
                     }
-                    System.out.println("Generation" + i);
-
-
+                    //System.out.println("Generation" + i);
                     //Breed new gen
                     for(int co = 0; co< generation/2;co++){
                         int gene1;
@@ -198,15 +209,16 @@
 
 
                     Collections.sort(newGeneration);
-                    double tot = 0.0, avg =0.0 ;
+                    double tot = 0.0;
+                    int avg =0;
                     for(int av = 0; av < newGeneration.size(); av++){
                         tot += newGeneration.get(av).getFitness();
                     }
-                    avg = tot/newGeneration.size();
+                    avg = (int)tot/newGeneration.size();
 
                     logger.info("Gen:"+ i +" Gen Seq: "+ newGeneration.get(0).getGene() + " BestFitness: "+ newGeneration.get(0).getFitness()+" Avg: "+avg);
-
-                    System.out.println("Gen:"+ i +"  Best Gen-Seq based on fitness: "+ newGeneration.get(0).getGene());
+                    System.out.println("Gen:"+ i +" Gen Seq: "+ newGeneration.get(0).getGene() + " BestFitness: "+ newGeneration.get(0).getFitness());
+                    //System.out.println("Gen:"+ i +"  Best Gen-Seq based on fitness: "+ newGeneration.get(0).getGene());
 
 
 
@@ -272,6 +284,7 @@
             public static void main(String[] args) {
 
                 randomgeneratedItems();
+                System.out.println("01 KNAPSACK PROBLEM USING GENETIC ALGORITHM");
                 System.out.println("Items -  values & Weights.....");
                 for (int i = 0; i < totalItems; i++) {
                     System.out.print(itemsList[i].getItemValue() + "  ");
